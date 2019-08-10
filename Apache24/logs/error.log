@@ -1,0 +1,124 @@
+[Thu Aug 08 12:16:53.729169 2019] [ssl:warn] [pid 11116:tid 148] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 12:16:53.897590 2019] [ssl:warn] [pid 11116:tid 148] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 12:16:55.168568 2019] [mpm_winnt:notice] [pid 11116:tid 148] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Thu Aug 08 12:16:55.169650 2019] [mpm_winnt:notice] [pid 11116:tid 148] AH00456: Server built: May 29 2019 20:07:10
+[Thu Aug 08 12:16:55.169650 2019] [core:notice] [pid 11116:tid 148] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Aug 08 12:16:55.225590 2019] [mpm_winnt:notice] [pid 11116:tid 148] AH00418: Parent: Created child process 10756
+Apache server shutdown initiated...
+sl:warn] [pid 10756:tid 520] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 12:16:55.890946 2019] [ssl:warn] [pid 10756:tid 520] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 12:16:55.908991 2019] [mpm_winnt:notice] [pid 10756:tid 520] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 08 12:17:04.008789 2019] [php7:error] [pid 10756:tid 1236] [client ::1:52423] script 'C:/Apache24/htdocs/assign.php' not found or unable to stat
+[Thu Aug 08 12:19:43.594306 2019] [mpm_winnt:notice] [pid 11116:tid 148] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 08 12:19:45.597467 2019] [mpm_winnt:notice] [pid 10756:tid 520] AH00364: Child: All worker threads have exited.
+[Thu Aug 08 12:19:45.637566 2019] [mpm_winnt:notice] [pid 11116:tid 148] AH00430: Parent: Child process 10756 exited successfully.
+[Thu Aug 08 17:57:52.447026 2019] [ssl:warn] [pid 10552:tid 128] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 17:57:52.790555 2019] [ssl:warn] [pid 10552:tid 128] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 17:57:52.868718 2019] [mpm_winnt:notice] [pid 10552:tid 128] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Thu Aug 08 17:57:52.868718 2019] [mpm_winnt:notice] [pid 10552:tid 128] AH00456: Server built: May 29 2019 20:07:10
+[Thu Aug 08 17:57:52.868718 2019] [core:notice] [pid 10552:tid 128] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Aug 08 17:57:52.993687 2019] [mpm_winnt:notice] [pid 10552:tid 128] AH00418: Parent: Created child process 12968
+Apache server interrupted...
+019] [ssl:warn] [pid 12968:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 17:57:54.233703 2019] [ssl:warn] [pid 12968:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 17:57:54.264983 2019] [mpm_winnt:notice] [pid 12968:tid 532] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 08 18:05:07.308492 2019] [mpm_winnt:notice] [pid 10552:tid 128] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 08 18:05:09.328375 2019] [mpm_winnt:notice] [pid 12968:tid 532] AH00364: Child: All worker threads have exited.
+[Thu Aug 08 18:05:09.352412 2019] [mpm_winnt:notice] [pid 10552:tid 128] AH00430: Parent: Child process 12968 exited successfully.
+[Thu Aug 08 22:18:22.295507 2019] [ssl:warn] [pid 10716:tid 140] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 22:18:22.591470 2019] [ssl:warn] [pid 10716:tid 140] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 22:18:23.327885 2019] [mpm_winnt:notice] [pid 10716:tid 140] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Thu Aug 08 22:18:23.327885 2019] [mpm_winnt:notice] [pid 10716:tid 140] AH00456: Server built: May 29 2019 20:07:10
+[Thu Aug 08 22:18:23.327885 2019] [core:notice] [pid 10716:tid 140] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Thu Aug 08 22:18:23.383886 2019] [mpm_winnt:notice] [pid 10716:tid 140] AH00418: Parent: Created child process 11000
+Apache server interrupted...
+019] [ssl:warn] [pid 11000:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 08 22:18:24.435885 2019] [ssl:warn] [pid 11000:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Thu Aug 08 22:18:24.463882 2019] [mpm_winnt:notice] [pid 11000:tid 528] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 08 22:18:49.521130 2019] [php7:warn] [pid 11000:tid 1248] [client ::1:61664] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\\Apache24\\htdocs\\app\\connect.php on line 11, referer: http://localhost/app/New.html
+[Thu Aug 08 22:26:18.876042 2019] [mpm_winnt:notice] [pid 10716:tid 140] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 08 22:26:20.881966 2019] [mpm_winnt:notice] [pid 11000:tid 528] AH00364: Child: All worker threads have exited.
+[Thu Aug 08 22:26:20.913620 2019] [mpm_winnt:notice] [pid 10716:tid 140] AH00430: Parent: Child process 11000 exited successfully.
+[Fri Aug 09 10:31:17.741158 2019] [ssl:warn] [pid 9896:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:31:18.147374 2019] [ssl:warn] [pid 9896:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 10:31:22.210648 2019] [mpm_winnt:notice] [pid 9896:tid 152] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Fri Aug 09 10:31:22.210648 2019] [mpm_winnt:notice] [pid 9896:tid 152] AH00456: Server built: May 29 2019 20:07:10
+[Fri Aug 09 10:31:22.210648 2019] [core:notice] [pid 9896:tid 152] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Aug 09 10:31:22.316975 2019] [mpm_winnt:notice] [pid 9896:tid 152] AH00418: Parent: Created child process 13072
+Apache server interrupted...
+019] [ssl:warn] [pid 13072:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:31:23.598992 2019] [ssl:warn] [pid 13072:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 10:31:23.634986 2019] [mpm_winnt:notice] [pid 13072:tid 504] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 09 12:40:58.222999 2019] [php7:crit] [pid 13072:tid 1220] [client ::1:65455] PHP Parse error:  syntax error, unexpected '=' in C:\\Apache24\\htdocs\\test\\connect.php on line 6, referer: http://localhost/test/
+[Fri Aug 09 15:04:37.589839 2019] [mpm_winnt:notice] [pid 9896:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 09 15:04:39.599441 2019] [mpm_winnt:notice] [pid 13072:tid 504] AH00364: Child: All worker threads have exited.
+[Fri Aug 09 15:04:39.649629 2019] [mpm_winnt:notice] [pid 9896:tid 152] AH00430: Parent: Child process 13072 exited successfully.
+[Fri Aug 09 15:04:44.777279 2019] [ssl:warn] [pid 14836:tid 520] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 15:04:44.994390 2019] [ssl:warn] [pid 14836:tid 520] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 15:04:45.224948 2019] [mpm_winnt:notice] [pid 14836:tid 520] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Fri Aug 09 15:04:45.224948 2019] [mpm_winnt:notice] [pid 14836:tid 520] AH00456: Server built: May 29 2019 20:07:10
+[Fri Aug 09 15:04:45.224948 2019] [core:notice] [pid 14836:tid 520] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Aug 09 15:04:45.261596 2019] [mpm_winnt:notice] [pid 14836:tid 520] AH00418: Parent: Created child process 1324
+Apache server shutdown initiated...
+sl:warn] [pid 1324:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 15:04:46.197384 2019] [ssl:warn] [pid 1324:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 15:04:46.225396 2019] [mpm_winnt:notice] [pid 1324:tid 504] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 09 15:37:52.738570 2019] [php7:crit] [pid 1324:tid 1248] [client ::1:49718] PHP Parse error:  syntax error, unexpected '<' in C:\\Apache24\\htdocs\\test\\connect.php on line 11, referer: http://localhost/test/
+[Fri Aug 09 15:39:29.410119 2019] [php7:crit] [pid 1324:tid 1244] [client ::1:49726] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\\Apache24\\htdocs\\test\\connect.php on line 22, referer: http://localhost/test/
+[Fri Aug 09 15:46:14.563093 2019] [mpm_winnt:notice] [pid 14836:tid 520] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 09 15:46:16.570669 2019] [mpm_winnt:notice] [pid 1324:tid 504] AH00364: Child: All worker threads have exited.
+[Fri Aug 09 15:46:16.630662 2019] [mpm_winnt:notice] [pid 14836:tid 520] AH00430: Parent: Child process 1324 exited successfully.
+[Fri Aug 09 15:47:59.020540 2019] [ssl:warn] [pid 6444:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 15:47:59.268541 2019] [ssl:warn] [pid 6444:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 15:47:59.292579 2019] [mpm_winnt:notice] [pid 6444:tid 508] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Fri Aug 09 15:47:59.292579 2019] [mpm_winnt:notice] [pid 6444:tid 508] AH00456: Server built: May 29 2019 20:07:10
+[Fri Aug 09 15:47:59.292579 2019] [core:notice] [pid 6444:tid 508] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Aug 09 15:47:59.324642 2019] [mpm_winnt:notice] [pid 6444:tid 508] AH00418: Parent: Created child process 9696
+Apache server shutdown initiated...
+sl:warn] [pid 9696:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 15:48:00.552539 2019] [ssl:warn] [pid 9696:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 15:48:00.580543 2019] [mpm_winnt:notice] [pid 9696:tid 564] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 09 15:48:26.287766 2019] [mpm_winnt:notice] [pid 6444:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 09 15:48:28.293925 2019] [mpm_winnt:notice] [pid 9696:tid 564] AH00364: Child: All worker threads have exited.
+[Fri Aug 09 15:48:28.327057 2019] [mpm_winnt:notice] [pid 6444:tid 508] AH00430: Parent: Child process 9696 exited successfully.
+[Fri Aug 09 16:25:08.103854 2019] [ssl:warn] [pid 9964:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 16:25:08.523858 2019] [ssl:warn] [pid 9964:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 16:25:08.563857 2019] [mpm_winnt:notice] [pid 9964:tid 560] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.3.7 configured -- resuming normal operations
+[Fri Aug 09 16:25:08.567860 2019] [mpm_winnt:notice] [pid 9964:tid 560] AH00456: Server built: May 29 2019 20:07:10
+[Fri Aug 09 16:25:08.567860 2019] [core:notice] [pid 9964:tid 560] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Aug 09 16:25:08.599858 2019] [mpm_winnt:notice] [pid 9964:tid 560] AH00418: Parent: Created child process 5620
+Apache server shutdown initiated...
+sl:warn] [pid 5620:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 16:25:10.755855 2019] [ssl:warn] [pid 5620:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '/path/to/extension/mysqli.so' (tried: /path/to/extension/mysqli.so (The specified module could not be found.), ext\\php_/path/to/extension/mysqli.so.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Fri Aug 09 16:25:10.799861 2019] [mpm_winnt:notice] [pid 5620:tid 576] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 09 17:31:00.148763 2019] [mpm_winnt:notice] [pid 9964:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 09 17:31:02.156248 2019] [mpm_winnt:notice] [pid 5620:tid 576] AH00364: Child: All worker threads have exited.
+[Fri Aug 09 17:31:02.188208 2019] [mpm_winnt:notice] [pid 9964:tid 560] AH00430: Parent: Child process 5620 exited successfully.
